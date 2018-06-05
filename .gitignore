@@ -1,1 +1,4 @@
 *.pkl
+FinalProject/competition_output/
+FinalProject/kaggle_test_predicted_labels.csv
+FinalProject/sampleSubmission.csv
